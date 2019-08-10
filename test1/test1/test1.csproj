@@ -70,6 +70,7 @@
     <Content Include="Content\js\main.js" />
     <Content Include="Content\style\main.css" />
     <Content Include="index.html" />
+    <Content Include="links.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
